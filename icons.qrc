@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/alert.png</file>
+    <file>icons/bg.png</file>
+    <file>icons/char1.png</file>
+    <file>icons/cross.png</file>
+    <file>icons/down.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/FILE.png</file>
+    <file>icons/icons.png</file>
+    <file>icons/icons.qrc</file>
+    <file>icons/icons8-bookmark.gif</file>
+    <file>icons/icons8-cursor.gif</file>
+    <file>icons/icons8-document.gif</file>
+    <file>icons/icons8-done.gif</file>
+    <file>icons/icons8-facebook.gif</file>
+    <file>icons/icons8-facebook.png</file>
+    <file>icons/icons8-info.png</file>
+    <file>icons/icons8-instagram.gif</file>
+    <file>icons/icons8-instagram.png</file>
+    <file>icons/icons8-mailbox.gif</file>
+    <file>icons/icons8-ok.gif</file>
+    <file>icons/icons8-opened-folder.gif</file>
+    <file>icons/icons8-plus.gif</file>
+    <file>icons/icons8-refresh.gif</file>
+    <file>icons/icons8-search.gif</file>
+    <file>icons/icons8-services.gif</file>
+    <file>icons/icons8-trash-can.gif</file>
+    <file>icons/mail.png</file>
+    <file>icons/max.png</file>
+    <file>icons/mini.png</file>
+    <file>icons/mini2.png</file>
+    <file>icons/OPT_ADD.png</file>
+    <file>icons/OPT_DONE.png</file>
+    <file>icons/opt2.png</file>
+    <file>icons/options.png</file>
+    <file>icons/Profile.png</file>
+    <file>icons/restore.png</file>
+    <file>icons/run.png</file>
+    <file>icons/sam.png</file>
+    <file>icons/search.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/slide.png</file>
+    <file>icons/terminate.png</file>
+    <file>icons/text.png</file>
+  </qresource>
+</RCC>
